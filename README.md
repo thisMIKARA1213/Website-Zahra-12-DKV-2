@@ -75,10 +75,6 @@
       display:block;
     }
 
-    main {padding: 30px; text-align:center;}
-    section {display:none;}
-    section.active {display:block;}
-
     /* Konten About */
     .content {
       display: flex;
